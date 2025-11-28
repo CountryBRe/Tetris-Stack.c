@@ -69,7 +69,7 @@ O programa utiliza cores no terminal para melhorar a visualização:
 
 ---
 
-Disciplina: Estruturas de Dados
+Disciplina: Estruturas de Dados - Pilhas e Filas
 
 ---
 
