@@ -56,11 +56,12 @@ Jogabilidade mais estratégica.
 
 O programa utiliza cores no terminal para melhorar a visualização:
 
-Cor	Uso
-🟢 Verde	Mensagens de sucesso
-🟡 Amarelo	Avisos e ações
-🔴 Vermelho	Erros e bloqueios
-🔵 Azul	Títulos e menus
+| Cor      | Significado         |
+|----------|-------------------|
+| 🟢 Verde  | Mensagens de sucesso |
+| 🔴 Vermelho | Erros e Bloqueios |
+| 🟡 Amarelo | Avisos e ações |
+| 🔵 Azul   | Títulos e menus |
 
 ---
 
@@ -75,15 +76,17 @@ Executar:
 
 🧩 Exemplo de saída
 === TETRIS STACK ===
-Fila: [T 2] [O 3] [L 4] [I 5] [O 6]
-Pilha: [T 9] [I 8]
 
-1 - Jogar peça
-2 - Reservar peça
-3 - Usar reserva
-4 - Trocar peça
-5 - Troca múltipla
-0 - Sair
+|----------|-------------------|
+| Fila: [T 2] [O 3] [L 4] [I 5] [O 6] |
+| Pilha: [T 9] [I 8] |
+
+| 1 - Jogar peça |
+| 2 - Reservar peça | 
+| 3 - Usar reserva |
+| 4 - Trocar peça |
+| 5 - Troca múltipla |
+| 0 - Sair |
 
 ---
 
@@ -91,3 +94,11 @@ Pilha: [T 9] [I 8]
 Disciplina: Estruturas de Dados
 Professor: Nathan de Freitas
 Faculdade: Estácio de Sá
+
+---
+⚙️ Compilação e Execução
+Compilar:
+gcc TetrisStack.c -o TetrisStack
+
+Executar:
+./TetrisStack
