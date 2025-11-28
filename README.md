@@ -65,37 +65,16 @@ O programa utiliza cores no terminal para melhorar a visualização:
 
 ---
 
-⚙️ Compilação e Execução
-Compilar:
-gcc TetrisStack.c -o TetrisStack
-
-Executar:
-./TetrisStack
-
----
-
-🧩 Exemplo de saída
-=== TETRIS STACK ===
-
-|----------|-------------------|
-| Fila: [T 2] [O 3] [L 4] [I 5] [O 6] |
-| Pilha: [T 9] [I 8] |
-
-| 1 - Jogar peça |
-| 2 - Reservar peça | 
-| 3 - Usar reserva |
-| 4 - Trocar peça |
-| 5 - Troca múltipla |
-| 0 - Sair |
-
----
-
 👨‍💻 Autor: Rodrigo Gomes
+---
 Disciplina: Estruturas de Dados
+---
 Professor: Nathan de Freitas
+---
 Faculdade: Estácio de Sá
 
 ---
+
 ⚙️ Compilação e Execução
 Compilar:
 gcc TetrisStack.c -o TetrisStack
